@@ -225,6 +225,17 @@ function initTrialModal() {
   openButtons.forEach(btn => {
     btn.addEventListener('click', (e) => {
       e.preventDefault();
+      
+      // Auto-close mobile navigation if open
+      const toggleBtn = document.querySelector('.mobile-toggle');
+      const navMenu = document.querySelector('.nav-menu');
+      if (toggleBtn && toggleBtn.classList.contains('open')) {
+        toggleBtn.classList.remove('open');
+        if (navMenu) navMenu.classList.remove('open');
+        toggleBtn.setAttribute('aria-expanded', 'false');
+        document.body.style.overflow = '';
+      }
+
       if (typeof dialog.showModal === 'function') {
         dialog.showModal();
       } else {

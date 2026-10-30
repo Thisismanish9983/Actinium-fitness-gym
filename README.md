@@ -7,13 +7,13 @@ Built strictly with clean semantic **HTML5, modern CSS3, and Vanilla JavaScript*
 ---
 
 ## 📸 Brand Identity & Logo
-The website's dark, metallic, and electric-cyan aesthetic is modeled directly around the official **Actinium Fitness** emblem:
+The website features an ultra-luxury, pristine white athletic aesthetic combined with the electric sapphire tones of the official **Actinium Fitness** emblem:
 - **Logo File:** `assets/images/actiniumfitness-logo.png`
 - **Extracted Quality:** Preserves original metallic chrome lettering, 3D triangular prism badge, electric cyan halo glow, and circular dark navy backing with transparent corner padding.
 - **Brand Colors (Sampled directly from the official logo emblem):**
-  - **Logo Sapphire Electric Blue:** `#1391cc`, `#1a9be6`, `#0e528e`, `#71c1e1`
-  - **Logo Metallic Chrome & Steel:** `#ffffff`, `#d0dbe5`, `#8c9da8`, `#374e60`
-  - **Logo Obsidian Deep Navy:** `#05090f`, `#080f1a`, `#0c1726`
+  - **Pristine White Theme Surfaces:** `#ffffff`, `#f8fafc`, `#f1f5f9`
+  - **Logo Sapphire Electric Blue:** `#1391cc`, `#0c6996`, `#e0f2fe`
+  - **High-Contrast Obsidian & Charcoal:** `#0a0f1d`, `#1e293b`, `#334155`, `#64748b`
 
 ---
 
